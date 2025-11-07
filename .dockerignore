@@ -1,0 +1,7 @@
+.git
+.github
+charts/
+argocd/
+node_modules
+.DS_Store
+*.zip
